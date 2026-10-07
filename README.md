@@ -11,7 +11,7 @@ AI/ML-accelerated pipelines for experimental and imaging data, from synchrotron 
   </tr>
   <tr>
     <td width="50%" valign="top"><a href="https://github.com/crentb/biomimetic-lattice-pipeline"><img src="https://raw.githubusercontent.com/crentb/biomimetic-lattice-pipeline/main/docs/figures/pipeline_overview.png" alt="biomimetic-lattice-pipeline overview: synchrotron micro-CT and deep-learning PIV of enamel mapped to CAD, finite-element analysis and a printed lattice, with an Optuna optimization loop"></a><br><sub><b>biomimetic-lattice-pipeline</b>: synchrotron micro-CT of enamel to printed lattices</sub></td>
-    <td width="50%" valign="top"><a href="https://github.com/crentb/som-multimodal-datareduction"><img src="https://raw.githubusercontent.com/crentb/som-multimodal-datareduction/main/docs/figures/som_results.png" alt="som-multimodal-datareduction results: component planes, U-matrix and k-means clusters of 138 enamel measurements"></a><br><sub><b>som-multimodal-datareduction</b>: self-organizing maps of multimodal materials data</sub></td>
+    <td width="50%" valign="top"><a href="https://github.com/crentb/som-multimodal-datareduction"><img src="https://raw.githubusercontent.com/crentb/som-multimodal-datareduction/main/docs/figures/jmbbm2022_fig6_som_heat_maps.jpg" alt="Self-organizing-map heat maps of the chemical and mechanical properties of old human enamel, with k-means zones (Figure 6 of Renteria et al., JMBBM 2022)"></a><br><sub><b>som-multimodal-datareduction</b>: self-organizing maps of multimodal materials data, from <i>J. Mech. Behav. Biomed. Mater.</i> 129, 105147 (2022), Special Issue: New Frontiers in Applications of Artificial Intelligence and Machine Learning in Biomaterials, Organs and Tissues</sub></td>
   </tr>
 </table>
 
